@@ -7,3 +7,16 @@ https://www.gremlin.com/community/tutorials/getting-started-with-application-lev
 Configure an ALFI attack via [Gremlin UI](https://app.gremlin.com/alfi)<br>
 
 Setup Traffic Coordinates in code.
+
+
+Create a simple endpoint for testing the Client.
+<b>
+@RestController
+public class HelloController {
+
+    @GetMapping("/hello")
+    public String getHello(){
+        return "Hello, World!";
+    }
+}
+</b>
