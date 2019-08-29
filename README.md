@@ -3,3 +3,7 @@ Source Code for Gremlin's Tutorial on "Getting Started with Application Level Fa
 
 Check out the tutorial [here]( 
 https://www.gremlin.com/community/tutorials/getting-started-with-application-level-failure-injection-alfi-hello-world/)
+
+Configure an ALFI attack via [Gremlin UI](https://app.gremlin.com/alfi)<br>
+
+Setup Traffic Coordinates in code.
